@@ -38,9 +38,9 @@ Educational-Organization-Mgmt-System/
 │   └── Student_Progress_Table.md
 │
 ├── Forms/
-│   ├── Admission_Form_Layout.json
-│   ├── Salesforce_Form_Layout.json
-│   └── StudentProgress_Form_Layout.json
+│   ├── Admission_Form_Design
+│   ├── Salesforce_Form_Design
+│   └── StudentProgress_Form_Design
 │
 ├── ClientScripts/
 │   ├── DisableFields.js
@@ -48,8 +48,6 @@ Educational-Organization-Mgmt-System/
 │   ├── PercentageCalc.js
 │   └── ResultScript.js
 │
-├── BusinessRules/
-│   └── Admission_Number_Generation.js
 │
 ├── Workflows/
 │   └── Admission_Workflow.md
