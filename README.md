@@ -58,12 +58,11 @@ Educational-Organisation-Using-ServiceNow/
  # Deployment Steps
 
 1. Create the three custom tables in ServiceNow  
-2. Add required fields & field types  
-3. Import Form Layout JSON files  
-4. Add Client Scripts  
-5. Add Business Rule  
-6. Configure Workflow  
-7. Test end-to-end Admissions process  
+2. Add required fields & field types
+3. Configure the form layouts in ServiceNow Form Builder as per the designs in the Forms folder  
+4. Add Client Scripts    
+5. Configure Workflow  
+6. Test end-to-end Admissions process  
 
 
 
